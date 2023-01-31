@@ -12,7 +12,5 @@ terraform {
         storage_account_name = "pipeline12"
         container_name       = "container4"
         key                  = "dev.tfstate"
-
-        access_key = " 9BewKJ5itjgz/FrUFFS46V4xhM5BHWu4QK7m4V138v1N4w05RarY+UqSl79TWGtR5yUcrCNGsi4g+AStJzG7mQ=="
         }
 }
